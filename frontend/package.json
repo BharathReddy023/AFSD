@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "frontend",
+=======
+  "name": "backend",
+>>>>>>> bharath
   "version": "0.1.0",
   "private": true,
   "dependencies": {

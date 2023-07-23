@@ -36,3 +36,45 @@
     transform: rotate(360deg);
   }
 }
+
+
+/* App.css */
+.container {
+  padding: 20px;
+  max-width: 1000px;
+  margin: 0 auto;
+  background-image: url("erupee.jpeg");
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+}
+
+h1 {
+  text-align: center;
+  color: rgb(147, 147, 247);
+}
+
+label {
+  display: block;
+  margin-bottom: 10px;
+  color: rgb(179, 177, 163);
+}
+
+input,
+button {
+  width: 100%;
+  padding: 5px;
+  font-size: 16px;
+}
+
+button {
+  display: block;
+  width: 100%;
+  padding: 10px;
+  font-size: 16px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
